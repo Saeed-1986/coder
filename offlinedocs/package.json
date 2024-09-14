@@ -10,9 +10,9 @@
     "copy-images": "sh ./scripts/copyImages.sh"
   },
   "dependencies": {
-    "@chakra-ui/react": "2.8.0",
-    "@emotion/react": "11",
-    "@emotion/styled": "11",
+    "@chakra-ui/react": "2.8.2",
+    "@emotion/react": "11.13.3",
+    "@emotion/styled": "11.13.0",
     "archiver": "5.3.1",
     "framer-motion": "6",
     "front-matter": "4.0.2",
