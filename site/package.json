@@ -67,7 +67,7 @@
     "formik": "2.4.1",
     "front-matter": "4.0.2",
     "i18next": "22.5.0",
-    "jest-environment-jsdom": "29.5.0",
+    "jest-environment-jsdom": "30.0.0",
     "jest-location-mock": "1.0.9",
     "just-debounce-it": "3.2.0",
     "lodash": "4.17.21",
